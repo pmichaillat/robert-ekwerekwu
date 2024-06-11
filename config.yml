@@ -28,8 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
+    description: "Father, Husband, Philanthropist, Technology Services. Trying to make the world better"
     author: Robert Ekwerekwu
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,7 +53,7 @@ consequat."
     profileMode:
           enabled: true
           title: Robert Ekwerekwu
-          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
+          subtitle: "Father, Husband, Philanthropist, Technology Services. Trying to make the world better"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
